@@ -1,0 +1,539 @@
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:53:03 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:53:44 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:53:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:53:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:53:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:53:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:53:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:53:49 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:53:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:53:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:53:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:53:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:53:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:53:53 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:54:22 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:54:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:54:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:54:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:54:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:54:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:54:44 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:54:57 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:01 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:04 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:06 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:10 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:13 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:19 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:19 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:19 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:19 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:19 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:19 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:55:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:55:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:55:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:55:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:55:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:55:23 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 18:57:36 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 18:57:36 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 18:57:36 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 18:57:36 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 18:57:36 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 18:57:36 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:18 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:31 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:33 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:33 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:33 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:33 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:33 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:33 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:44 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:49 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:49 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:51 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:51 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:51 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:51 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:51 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:51 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:53 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:55 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:01:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:01:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:01:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:01:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:01:57 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:01:57 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:00 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:00 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:00 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:00 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:00 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:00 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:09 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:23 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:25 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:25 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:25 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:25 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:25 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:25 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:27 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:27 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:27 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:27 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:27 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:27 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:32 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:35 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:35 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:35 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:35 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:35 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:35 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:37 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:40 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:02:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:02:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:02:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:02:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:02:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:02:47 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:08:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:08:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:08:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:08:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:08:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:08:22 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:08:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:08:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:08:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:08:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:08:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:08:24 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 19:09:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 19:09:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 19:09:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 19:09:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 19:09:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 19:09:01 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 22:24:42 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 22:24:42 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 22:24:42 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 22:24:42 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 22:24:42 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 22:24:42 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 22:24:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 22:24:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 22:24:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 22:24:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 22:24:44 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 22:24:44 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 22:24:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 22:24:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 22:24:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 22:24:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 22:24:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 22:24:46 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 22:24:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 22:24:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 22:24:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 22:24:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 22:24:47 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 22:24:47 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 22:24:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 22:24:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 22:24:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 22:24:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 22:24:53 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 22:24:53 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[27-Aug-2025 22:24:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[27-Aug-2025 22:24:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[27-Aug-2025 22:24:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[27-Aug-2025 22:24:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[27-Aug-2025 22:24:55 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[27-Aug-2025 22:24:55 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[28-Aug-2025 07:38:43 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[28-Aug-2025 07:38:43 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[28-Aug-2025 07:38:43 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[28-Aug-2025 07:38:43 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[28-Aug-2025 07:38:43 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[28-Aug-2025 07:38:43 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[28-Aug-2025 12:27:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[28-Aug-2025 12:27:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[28-Aug-2025 12:27:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[28-Aug-2025 12:27:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[28-Aug-2025 12:27:37 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[28-Aug-2025 12:27:37 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[29-Aug-2025 00:32:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[29-Aug-2025 00:32:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[29-Aug-2025 00:32:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[29-Aug-2025 00:32:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[29-Aug-2025 00:32:40 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[29-Aug-2025 00:32:40 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:46:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:46:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:46:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:46:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:46:09 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:46:09 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:46:16 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:46:16 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:46:16 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:46:16 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:46:16 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:46:16 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:46:59 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:01 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:01 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:11 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:15 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:15 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:15 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:15 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:15 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:15 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:18 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:22 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:22 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 09:47:26 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 09:47:26 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 09:47:26 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 09:47:26 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 09:47:26 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 09:47:26 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:25:58 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:12 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:12 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:12 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:12 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:12 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:12 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:13 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:13 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:17 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:31 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:31 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:32 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:41 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:41 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:41 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:41 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:41 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:41 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:26:48 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:26:48 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:26:48 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:26:48 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:26:48 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:26:48 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:27:28 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:27:28 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:27:28 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:27:28 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:27:28 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:27:28 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:28:08 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:28:08 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:28:08 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:28:08 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:28:08 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:28:08 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:28:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:28:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:28:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:28:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:28:46 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:28:46 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:28:50 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:28:50 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:28:50 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:28:50 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:28:50 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:28:50 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:28:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:28:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:28:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:28:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:28:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:28:52 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:46:59 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:46:59 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:47:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:47:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:47:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:47:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:47:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:47:04 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:47:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:47:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:47:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:47:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:47:06 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:47:06 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:47:11 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:47:11 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 11:47:14 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 11:47:14 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 11:47:14 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 11:47:14 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 11:47:14 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 11:47:14 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:14:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:14:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:14:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:14:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:14:52 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:14:52 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:04 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:10 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:10 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:17 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:24 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:24 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:30 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:30 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:30 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:30 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:30 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:30 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
+[01-Sep-2025 14:15:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 88
+[01-Sep-2025 14:15:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 89
+[01-Sep-2025 14:15:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 91
+[01-Sep-2025 14:15:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 92
+[01-Sep-2025 14:15:32 Europe/Berlin] Error [2]: ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 93
+[01-Sep-2025 14:15:32 Europe/Berlin] Error [2]: session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\pharmAid\admin\includes\config.php on line 96
